@@ -1,7 +1,6 @@
 # SHAPClab_Quality-and-Availability-of-GSV-BSV
 In this study, we collected panoramic street views within the Fifth Ring Road of Beijing using the Baidu Maps platform. We transformed these panoramic images into fisheye views and calculated the sun's trajectory during the summer. Based on this data, we estimated the solar radiation in the city. Furthermore, we innovatively used the street view collection parameters to determine the orientation of the street network. We analyzed the influence of the street network's orientation on solar radiation in both temporal and spatial dimensions. All our foundational data is available in this GitHub project, which can be used for extension, verification, replication, and enhancement of our research.
 
-![Street Orientation](http://m.qpic.cn/psc?/V51wK6B50SnpHF0Ql90V120XkX2YMvAu/bqQfVz5yrrGYSXMvKr.cqY9FjcrXcbg4KTbsl4BxrKKvZKvjrO2EhlsnmAnWADaeUYh3ODiGKp6Jqt5VPhsYEDpi8ak0CJ59pajKZaoVk6g!/b&bo=GgXWBRoF1gUBJwA!&rf=viewer_4&t=5 "Street Orientation")
 # Information
 The research is carried out under the SHAPC-lab and the lab director & the corresponding author:Jie He academic social networks page:<br>
 http://faculty.hitsz.edu.cn/hejie
